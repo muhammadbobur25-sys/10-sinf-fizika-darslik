@@ -1,4 +1,4 @@
-index.html
+
 <html lang="uz">
 <head>
     <meta charset="UTF-8">
